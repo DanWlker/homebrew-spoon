@@ -2,15 +2,15 @@
 
 ## How do I install these formulae?
 
-`brew install danwlker/spoon/<formula>`
+`brew install danwlker/spoon/spoon`
 
-Or `brew tap danwlker/spoon` and then `brew install <formula>`.
+Or `brew tap danwlker/spoon` and then `brew install spoon`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "danwlker/spoon"
-brew "<formula>"
+brew "danwlker/spoon/spoon"
 ```
 
 ## Documentation
