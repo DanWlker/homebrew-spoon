@@ -1,8 +1,8 @@
 class Spoon < Formula
   desc "Lazygit-style Git TUI with a rich commit graph"
   homepage "https://github.com/DanWlker/spoon"
-  url "https://github.com/DanWlker/spoon/archive/refs/tags/v0.27.0.tar.gz"
-  sha256 "0e2ba4a261b03de511fadb5824de59877cad997f81b472532fb5945786e8aa52"
+  url "https://github.com/DanWlker/spoon/archive/refs/tags/v0.28.0.tar.gz"
+  sha256 "bdf05c22a9008684b747687083629a97a516bfd97206621c465920c27fc49736"
   license "MIT"
   head "https://github.com/DanWlker/spoon.git", branch: "master"
 
